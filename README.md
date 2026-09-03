@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Adil 👋</h1>
 
 <p align="center">
-  <b>BCA Student • Data Science • AI • Python</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Python+Learner+%F0%9F%90%8D;AI+Explorer+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
