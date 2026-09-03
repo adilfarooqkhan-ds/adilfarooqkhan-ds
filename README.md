@@ -1,16 +1,68 @@
-## Hi there 👋
 
-<!--
-**adilfarooqkhan-ds/adilfarooqkhan-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./profile-banner.png" width="100%" alt="Adil Farooq Khan">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<h2 align="center">Hi, I'm Adil 👋</h2>
+
+<p align="center">
+BCA Student • Data Science Enthusiast • AI Explorer
+</p>
+
+---
+
+## 🌿 About Me
+
+I'm a BCA student exploring the world of **Data Science, Artificial Intelligence and Machine Learning**.
+
+- 🐍 Building my foundation in Python
+- 📊 Learning Data Analysis & Visualization
+- 🤖 Exploring Machine Learning & AI
+- 💻 Interested in development and technology
+- 🌱 Always learning and improving
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,git,github,vscode,jupyter">
+
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+**Data Science** · **Machine Learning** · **Deep Learning** · **Data Visualization**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&hide_border=true&theme=transparent">
+
+</p>
+
+---
+
+## 🎯 Goals
+
+- Become a Data Scientist
+- Build real-world projects
+- Learn continuously
+- Contribute to meaningful projects
+
+---
+
+<p align="center">
+
+
+</p><img width="1024" height="1536" alt="profile-banner png" src="https://github.com/user-attachments/assets/8349a44b-0d59-4866-bc6d-d5767a3da2f4" />
