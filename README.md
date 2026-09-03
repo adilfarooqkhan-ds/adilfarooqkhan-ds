@@ -47,7 +47,9 @@ I'm a BCA student exploring the world of **Data Science, Artificial Intelligence
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&hide_border=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&hide_border=true&theme=transparent" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilfarooqkhan-ds&layout=compact&hide_border=true&theme=transparent" height="165">
 
 </p>
 
