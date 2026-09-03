@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Adil 👋</h1>
+<h1 align="center">Hey, I'm Adil Farooq👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -60,6 +60,23 @@ and Machine Learning**.
 - Learn Machine Learning
 - Explore Artificial Intelligence
 - Contribute to open source
+
+---
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/adilfarooqkhan-ds">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="in/adilkhan-69b343425">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
 
 ---
 
