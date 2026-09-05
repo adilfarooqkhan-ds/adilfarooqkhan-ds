@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Adil Farooq 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hey%2C%20I%27m%20AdilFarooq%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" />
+</p>
 
 <p align="center">
   <b>Data Science • AI • Python • Machine Learning</b>
@@ -47,14 +49,43 @@ I'm a BCA student exploring **Data Science, Artificial Intelligence and Machine 
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
-| 📌 | Details |
-|---|---|
-| 🗂️ Repositories | My GitHub projects |
-| 🔥 Contributions | My coding activity |
-| 💻 Main Stack | Python • C • C++ • JavaScript |
-| 🚀 Focus | Data Science • AI • ML |
+<p>
+  <i>My coding journey — one commit at a time.</i>
+</p>
+
+<p>
+
+🟣 <b>10+</b> Contributions &nbsp;&nbsp; • &nbsp;&nbsp;
+🟢 <b>Active</b> Learning &nbsp;&nbsp; • &nbsp;&nbsp;
+🔵 <b>Growing</b> Every Day
+
+</p>
+
+<p>
+  <code>Python</code> •
+  <code>Data Science</code> •
+  <code>AI</code> •
+  <code>Machine Learning</code>
+</p>
+
+<p>
+
+<b>LEARNING</b> ━━━━━━━━━━━━░░░░░░  
+<br>
+<b>BUILDING</b> ━━━━━━━━━░░░░░░░░░  
+<br>
+<b>EXPLORING</b> ━━━━━━━━░░░░░░░░░
+
+</p>
+
+<p align="center">
+  <b>「 Learn • Build • Experiment • Grow 」</b> 🚀
+</p>
+
 ---
 
 ### 🔥 Contribution Activity
