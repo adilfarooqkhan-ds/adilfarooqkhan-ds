@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Adil 👋</h1>
+<h1 align="center">Hey, I'm Adil Farooq 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+📊;Python+Learner+🐍;AI+Explorer+🤖;Always+Learning+%26+Building+🚀" alt="Typing SVG">
+  <b>Data Science • AI • Python • Machine Learning</b>
 </p>
 
 <p align="center">
