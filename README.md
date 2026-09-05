@@ -47,16 +47,14 @@ I'm a BCA student exploring **Data Science, Artificial Intelligence and Machine 
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&theme=transparent&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilfarooqkhan-ds&layout=compact&theme=transparent&hide_border=true" width="48%">
-
-</p>
-
+| 📌 | Details |
+|---|---|
+| 🗂️ Repositories | My GitHub projects |
+| 🔥 Contributions | My coding activity |
+| 💻 Main Stack | Python • C • C++ • JavaScript |
+| 🚀 Focus | Data Science • AI • ML |
 ---
 
 ### 🔥 Contribution Activity
