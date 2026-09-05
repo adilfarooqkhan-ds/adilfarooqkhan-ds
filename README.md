@@ -1,9 +1,7 @@
-<h1 align="center">Hey, I'm Adil Farooq👋</h1>
+<h1 align="center">Hey, I'm Adil 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Python+Learner+%F0%9F%90%8D;AI+Explorer+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+📊;Python+Learner+🐍;AI+Explorer+🤖;Always+Learning+%26+Building+🚀" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -12,68 +10,92 @@
 
 ---
 
-### 🌱 About Me
+### 🌿 About Me
 
-I'm a BCA student exploring **Data Science, Artificial Intelligence
-and Machine Learning**.
+I'm a BCA student exploring **Data Science, Artificial Intelligence and Machine Learning**.
 
 - 🐍 Learning Python
 - 📊 Exploring Data Science
 - 🤖 Interested in AI & Machine Learning
-- 💻 Building projects
-- 🚀 Always learning something new
+- 💻 Building real-world projects
+- 🌱 Always learning and improving
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,git,github,vscode,jupyter">
-
+  🐍 Python &nbsp; • &nbsp;
+  💻 C &nbsp; • &nbsp;
+  ⚙️ C++ &nbsp; • &nbsp;
+  🌐 HTML &nbsp; • &nbsp;
+  🎨 CSS &nbsp; • &nbsp;
+  🟨 JavaScript &nbsp; • &nbsp;
+  🗄️ MySQL &nbsp; • &nbsp;
+  🔧 Git &nbsp; • &nbsp;
+  🐙 GitHub
 </p>
 
 ---
 
-### 📚 Currently Learning
+### 🎯 Current Focus
 
-`Python` `Data Science` `Machine Learning` `AI`
+- 📊 Data Science
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python
+- 💻 Building real-world projects
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&hide_border=true&theme=transparent" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&theme=transparent&hide_border=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilfarooqkhan-ds&layout=compact&hide_border=true&theme=transparent" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilfarooqkhan-ds&layout=compact&theme=transparent&hide_border=true" width="48%">
 
 </p>
 
 ---
 
-### 🎯 2026 Goals
+### 🔥 Contribution Activity
 
-- Build real-world projects
-- Improve my Python skills
-- Learn Machine Learning
-- Explore Artificial Intelligence
-- Contribute to open source
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adilfarooqkhan-ds&theme=transparent&hide_border=true" alt="GitHub Streak">
+
+</p>
 
 ---
+
+### 🚀 Featured Projects
+
+<p align="center">
+
+🔹 **Python Projects**  
+Small applications and practical Python projects.
+
+🔹 **Data Science Projects**  
+Data analysis, visualization and machine learning projects.
+
+🔹 **AI Projects**  
+Exploring Artificial Intelligence through hands-on projects.
+
+</p>
+
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/adilfarooqkhan-ds">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.linkedin.com/in/adilkhan-69b343425/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="in/adilkhan-69b343425">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/adilfarooqkhan-ds">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -81,5 +103,5 @@ and Machine Learning**.
 ---
 
 <p align="center">
-  <b>Thanks for visiting ✨</b>
+  <i>♡ Thanks for visiting my profile!</i>
 </p>
