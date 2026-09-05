@@ -67,18 +67,16 @@ I'm a BCA student exploring **Data Science, Artificial Intelligence and Machine 
 
 ---
 
+
 ### 🚀 Featured Projects
 
-<p align="center">
+🔹 **[Data Science Journey](https://github.com/adilfarooq-ds/Data-Science-Journey)**  
+My learning journey through Data Science, Python, AI & Machine Learning.
 
-🔹 **Python Projects**  
-Small applications and practical Python projects.
+🔹 **[Adil Farooq Khan – DS](https://github.com/adilfarooqkhan-ds)**  
+My main GitHub profile and development projects.
 
-🔹 **Data Science Projects**  
-Data analysis, visualization and machine learning projects.
-
-🔹 **AI Projects**  
-Exploring Artificial Intelligence through hands-on projects.
+---
 
 </p>
 
@@ -86,16 +84,18 @@ Exploring Artificial Intelligence through hands-on projects.
 
 ### 🌐 Connect With Me
 
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-khan-69b343425/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilfarooqkhan-ds)
+
+---
+
 <p align="center">
-
-<a href="https://www.linkedin.com/in/adilkhan-69b343425/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/adilfarooqkhan-ds">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
 
 ---
