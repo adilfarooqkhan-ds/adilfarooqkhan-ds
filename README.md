@@ -14,7 +14,7 @@
 
 ### 🌿 About Me
 
-I'm a BCA student exploring **Data Science, Artificial Intelligence and Machine Learning**.
+I'm a curious tech enthusiast exploring Data Science, Artificial Intelligence and Machine Learning**.
 
 - 🐍 Learning Python
 - 📊 Exploring Data Science
@@ -86,15 +86,7 @@ I'm a BCA student exploring **Data Science, Artificial Intelligence and Machine 
   <b>「 Learn • Build • Experiment • Grow 」</b> 🚀
 </p>
 
----
 
-### 🔥 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adilfarooqkhan-ds&theme=transparent&hide_border=true" alt="GitHub Streak">
-
-</p>
 
 ---
 
