@@ -93,19 +93,16 @@ I'm a curious tech enthusiast exploring Data Science, Artificial Intelligence an
 
 ### 🚀 Featured Projects
 
-🔹 **[Data Science Journey](https://github.com/adilfarooq-ds/Data-Science-Journey)**  
+🔹 **[Data Science Journey](https://github.com/adilfarooq-ds/Data-Science-Journey) 
 My learning journey through Data Science, Python, AI & Machine Learning.
 
 🔹 **[Adil Farooq Khan – DS](https://github.com/adilfarooqkhan-ds)**  
 My main GitHub profile and development projects.
 
----
 
 </p>
 
----
 
-### 🌐 Connect With Me
 
 ---
 
@@ -118,11 +115,8 @@ My main GitHub profile and development projects.
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <i>Thanks for visiting my profile </i>
 </p>
 
 ---
 
-<p align="center">
-  <i>♡ Thanks for visiting my profile!</i>
-</p>
