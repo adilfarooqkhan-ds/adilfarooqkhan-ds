@@ -14,7 +14,7 @@
 
 ### 🌿 About Me
 
-I'm a curious tech enthusiast exploring Data Science, Artificial Intelligence and Machine Learning**.
+I'm a curious tech enthusiast exploring Data Science, Artificial Intelligence and Machine Learning.
 
 - 🐍 Learning Python
 - 📊 Exploring Data Science
