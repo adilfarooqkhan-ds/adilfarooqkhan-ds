@@ -1,8 +1,7 @@
 <div align="center">
-
-# Hey, I'm Adil Farooq Khan 👋
-
-### `Python Developer` | `Data Science Enthusiast` | `Tech Explorer`
+  <img src="https://raw.githubusercontent.com/adilfarooqkhan-ds/adilfarooqkhan-ds/main/profile-bg.svg" width="100%" alt="Animated Profile Banner"/>
+</div>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Exploring+Data+Science+%26+AI;Turning+Data+Into+Insights;Building+Projects+One+Step+At+A+Time" alt="Typing SVG" />
 
