@@ -139,7 +139,7 @@ A simple calculator built using Python that performs basic arithmetic operations
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/adilfarooqkhan-ds/adilfarooqkhan-ds/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
