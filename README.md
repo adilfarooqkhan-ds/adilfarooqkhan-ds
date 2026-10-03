@@ -31,97 +31,107 @@ I'm Adil Farooq Khan, a tech enthusiast passionate about programming, data, and 
 <br clear="right"/>
 
 ---
-## ⚡ Tech Stack
+<h2 align="left">⚡ Tech Stack & Tools</h2>
 
-### 💻 Programming Languages
-
+<h3 align="left">💻 Programming Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,java,c,cpp,php&theme=dark" />
 </p>
 
-### 📊 Data Science & Machine Learning
-
+<h3 align="left">📊 Data Science & Visualization</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-### 🛠️ Tools & Platforms
-
+<h3 align="left">🛠️ Developer Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+</p>
+
+<h3 align="left">📂 Productivity & Office</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
 </p>
 
 ---
-## 🎯 Current Focus
 
-<table>
-<tr>
-<td width="50%">
+<h2 align="left">🎯 Current Focus</h2>
+<div align="center">
 
-### 🐍 Python
-Strengthening programming fundamentals and problem-solving skills.
+`🐍 Python` `📊 Data Science` `🤖 Machine Learning` `🧠 Artificial Intelligence`
 
-</td>
-<td width="50%">
+</div>
 
-### 📊 Data Science
-Exploring data analysis, visualization, and insights.
+- **Python:** Strengthening programming fundamentals and problem-solving skills.
+- **Data Science:** Exploring data analysis, visualization, and insights.
+- **Machine Learning:** Understanding algorithms and building predictive models.
+- **Artificial Intelligence:** Exploring AI concepts and practical applications.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Machine Learning
-Understanding algorithms and building predictive models.
-
-</td>
-<td width="50%">
-
-### 🧠 Artificial Intelligence
-Exploring AI concepts and practical applications.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<h2 align="left">🚀 Featured Projects</h2>
 
-### 📊 Data Science Journey
+<p align="left">
+  <img src="https://img.shields.io/badge/PROJECTS-2-00F7FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF99?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-BC8CFF?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-A collection of Python programs, learning notes, and practical Data Science projects.
 
-**Tech:** Python, Pandas, NumPy
+<h3> 📊 Data Science Journey</h3>
 
-<a href="https://github.com/adilfarooqkhan-ds/Data-Science-journey">
-  <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=3776AB" />
+</p>
 
-</td>
-<td width="50%">
+> A hands-on learning repository documenting my journey through Python, data analysis, and data science concepts.
 
-### 🧮 Python Calculator
+**What you'll find:**
+- Python fundamentals and practical examples
+- Data manipulation and analysis
+- Learning notes and code implementations
+- Consistent progress through projects
 
-A simple calculator built using Python that performs basic arithmetic operations.
-
-**Features:** Addition, subtraction, multiplication, and division.
-
-<a href="https://github.com/adilfarooqkhan-ds">
-  <img src="https://img.shields.io/badge/Explore%20GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://github.com/adilfarooq-ds/Data-Science-journey">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" />
+  </a>
+</p>
 
 ---
-## 📈 GitHub Analytics
 
+<h3> 🧮 Python Calculator</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI_APPLICATION-00FF99?style=flat-square&labelColor=0D1117" />
+</p>
+
+> A simple command-line calculator built with Python to practice programming fundamentals and logical operations.
+
+**Features:**
+- Addition and subtraction
+- Multiplication and division
+- User-friendly input
+- Clean and readable code
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF99?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+---
+
+📈 GitHub Analytics
+---
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adilfarooqkhan-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
