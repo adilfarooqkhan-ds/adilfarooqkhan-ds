@@ -1,38 +1,56 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1120"/>
-      <stop offset="0.5" stop-color="#172554"/>
-      <stop offset="1" stop-color="#312E81"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color"
+          values="#2563EB;#7C3AED;#0891B2;#DB2777;#2563EB"
+          dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06B6D4">
+        <animate attributeName="stop-color"
+          values="#06B6D4;#DB2777;#2563EB;#7C3AED;#06B6D4"
+          dur="12s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop stop-color="#06B6D4" stop-opacity="0.4"/>
-      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
-  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
-  <circle cx="950" cy="80" r="350" fill="url(#glow)"/>
-  <circle cx="180" cy="380" r="300" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
 
-  <g opacity="0.15" stroke="#67E8F9">
-    <path d="M0 340 Q300 240 600 340 T1200 270" stroke-width="2"/>
-    <path d="M0 370 Q300 270 600 370 T1200 300" stroke-width="2"/>
-  </g>
+  <circle cx="1050" cy="60" r="100" fill="#FFFFFF" opacity="0.06"/>
+  <circle cx="120" cy="270" r="150" fill="#FFFFFF" opacity="0.05"/>
 
-  <text x="600" y="145" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
-    Hey, I'm Adil Farooq Khan 👋
+  <path d="M0 230 Q300 160 600 230 T1200 210"
+    stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2" fill="none"/>
+
+  <path d="M0 250 Q300 180 600 250 T1200 230"
+    stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2" fill="none"/>
+
+  <text x="600" y="115"
+    font-family="Arial, sans-serif"
+    font-size="48"
+    font-weight="bold"
+    fill="#FFFFFF"
+    text-anchor="middle">
+    Hey, I'm Adil Farooq Khan
   </text>
 
-  <text x="600" y="210" text-anchor="middle" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="24">
-    Python Developer | Data Science Enthusiast | Tech Explorer
+  <text x="600" y="170"
+    font-family="Arial, sans-serif"
+    font-size="25"
+    font-weight="500"
+    fill="#FFFFFF"
+    text-anchor="middle">
+    Python Developer | Data Science | Tech Explorer
   </text>
 
-  <text x="600" y="290" text-anchor="middle" fill="#67E8F9" font-family="Arial, sans-serif" font-size="34" font-weight="bold">
+  <text x="600" y="220"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    fill="#FFFFFF"
+    text-anchor="middle"
+    opacity="0.9">
     Code. Learn. Build.
   </text>
 
-  <text x="600" y="345" text-anchor="middle" fill="#C4B5FD" font-family="Arial, sans-serif" font-size="18">
-    Exploring technology, building projects, and growing every day.
-  </text>
 </svg>
